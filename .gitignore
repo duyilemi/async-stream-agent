@@ -1,0 +1,10 @@
+*.env
+*.DS_Store
+*.egg-info
+*.pyc
+
+
+/node_modules
+/app/node_modules
+/__pycache__/
+/__pypackages__/        
